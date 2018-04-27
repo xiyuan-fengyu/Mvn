@@ -22,6 +22,7 @@
             <DefaultRolloverStrategy max="20" />
         </RollingFile>
     </Appenders>
+
     <Loggers>
 
         <!--<Logger name="File" level="trace" additivity="true">-->
